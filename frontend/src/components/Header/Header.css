@@ -2,11 +2,12 @@
     height: 34vw;
     margin: 30px auto;
     background: url('/header_img.png') no-repeat;
-    background-size: contain;
+    background-size: cover;
     position: relative;
 }
 
 .header-contents{
+    
     position: absolute;
     display: flex;
     flex-direction: column;
@@ -19,19 +20,20 @@
 }
 
 .header-contents h2{
+
     font-weight: 500;
-    color: white;
+    color: black;
     font-size:max(4.5vw, 22px);
 }
 
 .header-contents p {
-    color: white;
+    color: black;
     font-size: 1vw;
 }
 
 .header-contents button{
     border: none;
-    color: #747474;
+    color: black;
     font-weight: 500;
     padding: 1vw 2.3vw;
     background-color: white;
