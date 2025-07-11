@@ -27,7 +27,7 @@
     background: transparent;
     font-size: 16px;
     color: #49557e;
-    border: 1px solid tomato;
+    border: 1px solid rgb(103, 163, 247);
     padding: 10px 30px;
     border-radius: 50px;
     cursor: pointer;
@@ -49,6 +49,7 @@ background-color: #fff4f2;
 
 .navbar-search-icon{
     position: relative;
+
 }
 
 .navbar-search-icon .dot{
