@@ -13,7 +13,16 @@ A modern and responsive MERN stack (MongoDB, Express, React, Node.js) web applic
 
 ## 📸 Screenshots
 
-> *(Add relevant screenshots of Home, Menu, Cart, Login, My Orders, etc.)*
+![Image 1](image1.png)
+![Image 2](image2.png)
+![Image 3](image3.png)
+![Image 4](image4.png)
+![Image 5](image5.png)
+![Image 6](image6.png)
+![Image 7](image7.png)
+![Image 8](image8.png)
+![Image 9](image9.png)
+
 
 ## 🛠️ Tech Stack
 
