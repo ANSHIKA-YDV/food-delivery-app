@@ -21,7 +21,7 @@ A modern and responsive MERN stack (MongoDB, Express, React, Node.js) web applic
 ![Image 6](image6.png)
 ![Image 7](image7.png)
 ![Image 8](image8.png)
-![Image 9](image9.png)
+
 
 
 ## 🛠️ Tech Stack
